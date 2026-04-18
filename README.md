@@ -21,5 +21,5 @@ Shakespeare Sonnets dataset from Kaggle
 The model generates Shakespeare-like text based on seed input.
 
 ## Example
-Input: "shall i compare thee"
+Input: "shall i compare thee"<br>
 Output: "shall i compare thee to a summer day..."
